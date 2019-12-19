@@ -1,0 +1,6 @@
+# 企业微信配置
+corpwechat:
+  corpid: xxxxxxxxxxxxxxxxxxx #企业id
+  corpsecret: xxxxxxxxxxxxxxxxxxxxxxxxxxxxx #企业密钥
+  agentId: 1000002 # 应用id
+  sendMessageUrl: https://qyapi.weixin.qq.com/cgi-bin/message/send?access_token=%s #消息推送url
